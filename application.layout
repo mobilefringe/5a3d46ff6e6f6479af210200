@@ -2,13 +2,6 @@
 <html lang="en">
 <head>
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N6LGVN5');</script>
-<!-- End Google Tag Manager -->
     <link rel="icon" type="image/png" href="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/1462909257000/favicon_vestar.png">
     <!--Update each web pages SEO to set values for {{meta_title}}, {{meta_description}}, {{meta_keywords}} -->
     <meta charset="utf-8">
@@ -90,10 +83,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="/"><img src="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/undefined/dtl_600x180_logo.png" class="main_logo" /></a>
             </div>
             <div class="nav_container hidden_phone">
-                <!--<div class="social_links">-->
-                <!--    <a href="https://www.facebook.com/DistrictTustin" target="_blank">-->
-                <!--        <span id="social_facebook"></span>-->
-                <!--    </a>-->
+                <div class="social_links">
+                    <a href="https://www.facebook.com/anaheimhillsfestival/" target="_blank">
+                        <span id="social_facebook"></span>
+                    </a>
                     <!--<a href="https://twitter.com/DistrictTustin" target="_blank">-->
                     <!--    <span id="social_twitter"></span>-->
                     <!--</a>-->
@@ -109,7 +102,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!--<a href="#" target="_blank">-->
                     <!--    <span id="social_gplus"></span>-->
                     <!--</a>-->
-                <!--</div>-->
+                </div>
                 <div class="clearfix"></div>
                 <div class="top_menu">
                     <a href="/stores">Directory</a>
@@ -208,16 +201,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         8020 E SANTA ANA CANYON RD, ANAHEIM, CA 92808
                     </p>
                     <p class="footer_text">
-                <a href="tel:7142599090">714.259.9090</a> | <a href="/pages/district-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:7142599090">714.259.9090</a> | <a href="/pages/anaheim-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6LGVN5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  
 </body>
 
 </html>
