@@ -55,5 +55,8 @@ $animation_color: #a5afb0;
     max-height: 90px;
 }
 
+.mark {
+    background-color: transparent;
+}
 
 
