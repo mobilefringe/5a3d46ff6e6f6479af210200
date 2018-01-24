@@ -24,11 +24,11 @@
     function renderPage(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        if (slug == "district-privacy-policy"){
-           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/jpeg/undefined/dtl_440x1200_side_privacy.jpg")
+        if (slug == "anaheim-privacy-policy"){
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/5a68c3166e6f646860020000/image/jpeg/1516656810000/AHF_Side_Images3.jpg")
         }
-        if (slug == "district-contact-us"){
-           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/jpeg/undefined/dtl_440x1200_side_privacy.jpg")
+        if (slug == "anaheim-contact-us"){
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/5a68c3166e6f646860020000/image/jpeg/1516656811000/AHF_Side_Images4.jpg")
         }
         
         var prefix = get_prefix();
