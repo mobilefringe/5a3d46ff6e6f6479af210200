@@ -36,7 +36,8 @@
                 </a>
                 <ul id="category_container" class="dropdown-menu" aria-labelledby="cat_dd">
                     <li href="#" class="show_all_stores">All</li>
-                    <li class="show_cat_stores" data-id="4016">Restaurants & Bars</li>
+                   <li class="show_cat_stores" data-id="5561">Restaurant - Casual</li>
+            <li class="show_cat_stores" data-id="5559">Restaurant - Full Service</li>
                     
                 </ul>
             </div>
@@ -88,7 +89,8 @@
     
     function renderPage(){
         var stores = [];
-        var s1 = getStoresListByCategoryID(4016)
+        var s1 = getStoresListByCategoryID(5561)
+        var s2 = getStoresListByCategoryID(5559)
    
         stores = stores.concat(s1)
     
