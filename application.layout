@@ -127,7 +127,7 @@
     <section class="main_footer main_container">
         <div class="footer_row">
             <div class="footer_col">
-                <h5 class="heading">SHOPPING CENTER HOURS</h5>
+                <h5 class="heading">MANAGEMENT OFFICE HOURS</h5>
                 <img src="//codecloud.cdn.speedyrails.net/sites/57f2b1016e6f645d03550000/image/png/1463686637000/clock.png" class="hours_clock" alt="hours clock">
                 <div class="hours_footer" id="hours_container">
                     <script id="hours_template" type="x-tmpl-mustache/text">
