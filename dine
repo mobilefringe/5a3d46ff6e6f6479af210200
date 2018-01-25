@@ -12,7 +12,8 @@
         </a>
         <ul id="category_container2" class="dropdown-menu" aria-labelledby="cat_dd2">
             <li href="#" class="show_all_stores">All</li>
-            <li class="show_cat_stores" data-id="4016">Restaurant & Bars</li>
+            <li class="show_cat_stores" data-id="5561">Restaurant - Casual</li>
+            <li class="show_cat_stores" data-id="5561">Restaurant - Casual</li>
             
         </ul>
     </div>
@@ -101,7 +102,7 @@
         })
         
         renderStoreList('#store_list_container','#store_list_template', newarr.sortBy(function(o){ return o.name }), "stores", "A", "M");
-        renderStoreList('#store_list_container2','#store_list_template2', newarr.sortBy(function(o){ return o.name }), "stores","M", "Z" );
+        renderStoreList('#store_list_container2','#store_list_template2', newarr.sortBy(function(o){ return o.name }), "stores","N", "Z" );
         // var categories = getStoreCategories();
         // renderGeneral('#category_container, #category_container2', '#category_template', categories);
         show_content();
