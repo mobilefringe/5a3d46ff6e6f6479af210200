@@ -93,6 +93,7 @@
         var s2 = getStoresListByCategoryID(5559)
    
         stores = stores.concat(s1)
+        stores = stores.concat(s2)
     
         var newarr = [];
         var unique = {};
