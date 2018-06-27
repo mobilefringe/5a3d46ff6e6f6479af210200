@@ -150,7 +150,7 @@
                         <input name="cm-autdht-autdht" type="text" placeholder="Subscribe to Newsletter" class="newsletter_control" required />
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
-                            <input id="newsletter_agree" type="checkbox" />
+                            <input id="newsletter_agree" type="checkbox" required />
                             I agree to receive newsletters from Anaheim Hills Festival.
                         </label>
                         <p class="hidden_now" id="success_subscribe">
