@@ -11,7 +11,7 @@
             Select Category <i class="fa fa-chevron-down visible_phone pull-right"></i>
         </a>
         <ul id="category_container2" class="dropdown-menu" aria-labelledby="cat_dd2">
-            <li href="#" class="show_all_stores">All</li>
+            <li href="#" class="show_all_stores">All Cuisine</li>
            
         </ul>
     </div>
