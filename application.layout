@@ -58,7 +58,7 @@
     
     <!-- Site data -->
     <script>
-        $.getJSON("//alamedacrossing.mallmaverick.com/api/v4/alamedacrossing/subcategories.json?bust=true").done(function(data){
+        $.getJSON("//anaheimhills.mallmaverick.com/api/v4/anaheim/subcategories.json?bust=true").done(function(data){
             
         });
         setEndPoint('//anaheimhills.mallmaverick.com/api/v4/anaheim/all.json');
