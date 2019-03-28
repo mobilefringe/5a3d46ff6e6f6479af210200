@@ -81,5 +81,6 @@
             $('.contest_btn').prop('disabled', true);
             submit_contest(slug);
         })
+        console.log(contest_details)
     }
 </script>
